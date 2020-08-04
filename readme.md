@@ -25,6 +25,8 @@ Is a chat/voice bot 🤖 for Booking at restaurants 🍽️ ready for the "New n
 
 This project has been the result of the FCT practices that we have carried out remotely 👨‍💻 in ATOS and it has been quite a challenge, since it has been a project started from scratch in new technologies for us (Node, Firebase, DialogFlow, etc) and with carte blanche in practically everything, since the only rule was to use the technologies discussed above and meet the deadlines for the bot.
 
+The most important thing about the bot is that it is completely autonomous and that in addition to taking into account the basic things of the reservations, it also contemplates those added by the "new normal", so when you make a reservation, the bot will take into account its own schedule in case it is closed at that time, its capacity limitation both inside and outside (including extra limitation depending on the phase it is in), maximum number of people per groups and other things. Although the most important thing is that in case the indicated date was already reserved, it will automatically offer you similar options to continue with the "Happy Path" and make your reservation.
+
 ## **Demo**
 
 Unfortunately, right now we don't have an interactive demo that can be tested, since to avoid expenses we have deactivated the project in Firebase and DialogFlow, but if you follow the steps of the Setup you can assemble it yourself and test it.
