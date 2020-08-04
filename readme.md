@@ -33,13 +33,9 @@ Unfortunately, right now we don't have an interactive demo that can be tested, s
 
 But we do have visual content of the project working so you can see the functionalities that it has.
 
-<<<<<<< HEAD
 > <img src="readme/demo.gif"><br><i>Demo</i>
 
 You can download the full video with sound from this [**Link**](https://github.com/udsgit/reservation-covid-bot/blob/master/readme/demo.m4v)
-=======
-> <video src="https://drive.google.com/file/d/1ZiEJ05F5AZEebikYPubD5ZlVcz1ZAZQN/view" poster="readme/cancel-reservation.jpg" width="320" height="200" controls preload></video>
->>>>>>> 1d9e020ffbb42ebaca5f8cf53305ed513dc2d12f
 
 ## **Screenshots**
 
