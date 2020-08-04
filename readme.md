@@ -150,6 +150,7 @@ https://us-central1-projectName.cloudfunctions.net/app/dialogflow
 
 1. For test the bot, if you was followed the previously steps you can now test it at Dialogflow console.
 2. Other options to test it, is that if in the integrations tab you have enabled the deployment on other platforms such as Telegram, Messenger, etc. Then you can test it on these platforms as long as you have been able to configure it correctly.
+3. The "Code" for access when you are talking with the bot is "atos".
 
 ## **Status**
 
