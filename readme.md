@@ -33,7 +33,7 @@ Unfortunately, right now we don't have an interactive demo that can be tested, s
 
 But we do have visual content of the project working so you can see the functionalities that it has.
 
-> ![](readme/demo.m4v)
+> ![](readme/demo.mp4)
 
 ## **Screenshots**
 
