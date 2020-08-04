@@ -11,8 +11,8 @@ Is a chat/voice bot 🤖 for Booking at restaurants 🍽️ ready for the "New n
   - [**Screenshots**](#screenshots)
   - [**Technologies**](#technologies)
   - [**Setup**](#setup)
-    - [Developer mode (local webhook)](#developer-mode-local-webhook)
-    - [Production Mode (webhook @firebase functions)](#production-mode-webhook-firebase-functions)
+    - [**Developer mode** (local webhook)](#developer-mode-local-webhook)
+    - [**Production Mode** (webhook @firebase functions)](#production-mode-webhook-firebase-functions)
   - [**Usage**](#usage)
   - [**Status**](#status)
   - [**Contact**](#contact)
@@ -33,7 +33,7 @@ Unfortunately, right now we don't have an interactive demo that can be tested, s
 
 But we do have visual content of the project working so you can see the functionalities that it has.
 
-> ![](readme/demo.mp4)
+> ![](https://github.com/udsgit/reservation-covid-bot/blob/master/readme/demo.mp4)
 
 ## **Screenshots**
 
