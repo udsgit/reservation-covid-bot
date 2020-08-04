@@ -33,7 +33,9 @@ Unfortunately, right now we don't have an interactive demo that can be tested, s
 
 But we do have visual content of the project working so you can see the functionalities that it has.
 
-> ![](readme/demo.mp4)
+> <img src="readme/demo.gif"><br><i>Demo</i>
+
+You can download the full video with sound from this [**Link**](https://github.com/udsgit/reservation-covid-bot/blob/master/readme/demo.m4v)
 
 ## **Screenshots**
 
