@@ -33,7 +33,7 @@ Unfortunately, right now we don't have an interactive demo that can be tested, s
 
 But we do have visual content of the project working so you can see the functionalities that it has.
 
-> <video src="readme/demo.mp4" poster="readme/cancel-reservation.jpg" width="320" height="200" controls preload></video>
+> <video src="https://drive.google.com/file/d/1ZiEJ05F5AZEebikYPubD5ZlVcz1ZAZQN/view" poster="readme/cancel-reservation.jpg" width="320" height="200" controls preload></video>
 
 ## **Screenshots**
 
