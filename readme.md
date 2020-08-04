@@ -105,7 +105,7 @@ npm run tunnel
 9. And in the Fulfillment tab paste the link and add "/dialogflow" like the following example.
 
 ```console
-https://9cbb5915b7e7.ngrok.io/dialogflow)
+https://9cbb5915b7e7.ngrok.io/dialogflow
 
 ```
 
