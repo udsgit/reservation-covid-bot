@@ -21,7 +21,7 @@ Is a chat/voice bot 🤖 for Booking at restaurants 🍽️ ready for the "New n
 
 **Date**: May, 2020  
 **Duration**: 1 Month.  
-**Team members**: [**@Emmanuel**](https://www.linkedin.com/in/emagleza/), **@Fernando** and [**@Omar**](https://www.linkedin.com/in/omar-bennedjma-093a72196/).
+**Team members**: [**@Emmanuel**](https://www.linkedin.com/in/emagleza/), [**@Fernando**](https://www.linkedin.com/in/fevm/) and [**@Omar**](https://www.linkedin.com/in/omar-bennedjma-093a72196/).
 
 This project has been the result of the FCT practices that we have carried out remotely 👨‍💻 in ATOS and it has been quite a challenge, since it has been a project started from scratch in new technologies for us (Node, Firebase, DialogFlow, etc) and with carte blanche in practically everything, since the only rule was to use the technologies discussed above and meet the deadlines for the bot.
 
