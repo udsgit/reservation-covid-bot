@@ -167,7 +167,7 @@ Because it was a project with an end date and it has served to better understand
 Created by
 
 - [**@Emmanuel**](https://www.linkedin.com/in/emagleza/)
-- **@Fernando**
+- [**@Fernando**](https://www.linkedin.com/in/fevm/)
 - [**@Omar**](https://www.linkedin.com/in/omar-bennedjma-093a72196/)
 
 Feel free to contact us if you need it.
